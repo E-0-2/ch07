@@ -6,7 +6,7 @@ public class Main {
         // IntelliJ IDEA의 수정 제안을 볼 수 있습니다.
         System.out.printf("Hello and welcome!");
 
-        // Opt+;을(를) 누르거나 여백의 녹색 화살표 버튼을 클릭하여 코드를 실행합니다.
+        // Shift+F10을(를) 누르거나 여백의 녹색 화살표 버튼을 클릭하여 코드를 실행합니다.
         for (int i = 1; i <= 5; i++) {
 
             // Shift+F9을(를) 눌러 코드 디버그를 시작합니다. 중단점을 하나 설정해 드렸습니다.
